@@ -1,0 +1,45 @@
+[Suggested description]
+Doctor Appointment Management System V 1.0.0 is vulnerable
+> to Cross Site Scripting (XSS) via searchdata=.
+>
+> ------------------------------------------
+>
+> [Vulnerability Type]
+> Cross Site Scripting (XSS)
+>
+> ------------------------------------------
+>
+> [Vendor of Product]
+> https://phpgurukul.com/
+>
+> ------------------------------------------
+>
+> [Affected Product Code Base]
+> Doctor Appointment Management System - V 1.0.0
+>
+> ------------------------------------------
+>
+> [Affected Component]
+> searchdata=
+>
+> ------------------------------------------
+>
+> [Attack Type]
+> Local
+>
+> ------------------------------------------
+>
+> [Impact Code execution]
+> true
+>
+> ------------------------------------------
+>
+> [Reference]
+> https://phpgurukul.com/projects/Doctor-Appointment-System_PHP.zip
+>
+> ------------------------------------------
+>
+> [Discoverer]
+> Rajeshwar Singh
+
+Use CVE-2022-46128.
